@@ -28,7 +28,7 @@ const Form = () => {
                 <div className="cardTitle">
                     <div className="description">
                         <h4>CVV Number</h4>
-                        <p>Enter the 3 or 4 digit number on the card</p>e
+                        <p>Enter the 3 or 4 digit number on the card</p>
                     </div>
                     <div className="dotImage">
                         <input type="password" className="form-control" placeholder="327" maxlength="3" />
