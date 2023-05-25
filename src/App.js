@@ -18,14 +18,14 @@ function App() {
               0
             </span>
             <span className="timerBox" id="minute2">
-              0
+              1
             </span>
             <span className="timerDivider">:</span>
             <span className="timerBox" id="second1">
-              0
+              1
             </span>
             <span className="timerBox" id="second2">
-              0
+              9
             </span>
           </div>
         </div>

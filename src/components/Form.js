@@ -1,5 +1,5 @@
 import paymentIcon from "../assets/paymentTimeicon.jpg";
-import correctIcon from "../assets/correctIcon.jpg";
+import correctIcon from "../assets/correctIcon.png";
 import dotImage from "../assets/dots.PNG";
 
 function Form() {

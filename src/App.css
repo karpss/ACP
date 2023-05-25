@@ -142,8 +142,7 @@ img.paymentIcon {
   padding-left: 60px;
 }
 
-img.correctIcon,
-img.uncorrectIcon {
+img.correctIcon {
   position: absolute;
   top: 50%;
   transform: translateY(-50%);
