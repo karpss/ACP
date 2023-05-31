@@ -4,7 +4,7 @@ import Card from "./components/Card";
 
 function App() {
   return (
-    <main className="contentMain">
+    <div className="contentMain">
       <div className="leftSide">
         <div className="head">
           <div className="logo">
@@ -33,7 +33,7 @@ function App() {
         <Form />
       </div>
       <Card />
-    </main>
+    </div>
   );
 }
 

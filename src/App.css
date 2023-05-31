@@ -22,7 +22,7 @@ body {
 }
 
 
-main {
+.contentMain {
   width: 110%;
   margin: 0px auto;
   display: flex;
@@ -361,7 +361,7 @@ img.applelogo {
 
 
 @media only screen and (max-width: 400px) {
-  main {
+  .contentMain {
       display: flex;
       flex-direction: column;
       width: 100%;
@@ -453,7 +453,7 @@ img.applelogo {
 }
 
 @media (min-width: 400px) and (max-width: 767px) {
-  main {
+  .contentMain {
       display: flex;
       flex-direction: column;
       padding-top: 300px;
@@ -534,7 +534,7 @@ img.applelogo {
 }
 
 @media (min-width: 768px) and (max-width: 992px) {
-  main {
+  .contentMain {
       display: flex;
       flex-direction: column;
       padding-top: 300px;
